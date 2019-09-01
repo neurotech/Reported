@@ -22,26 +22,23 @@ addon.moduleText['Default'] = {
 		"reported!!",
 		"Reported!!",
 		"Reported!!!",
-		"Reported player: %Pl. Enjoy you're ban."
+		"Reported player: %Pl. Enjoy you're ban.",
 		"Player %Pl has been reported for their distasteful and vulgar language."
 }
 addon.moduleText["Harry_Potter"] = {
 		["Description"] = "Harry Potter hates muggles who swear",
-		"VOLDEMORT JUMPS OUT AND REPORTS %PL FOR HIS/HER VULGAR LANGUAGE",
+		"VOLDEMORT JUMPS OUT AND REPORTS %Pl FOR THEIR VULGAR LANGUAGE",
 		"heh... expeliarmous of your bad language %pl - ron weasley 2002",
 		"you filthy mudblood you're reported %pl eat it!",
-		"i'm gonna make like a broom and fly your bad language out of here %pl ok????????",
-		"crucio crucio crucio i am torturing %pl and reporting %pl for bad language - voldemort 1999",
-		"FILCH HAS CAUGHT YOU SWEARING %PL TIME TO PUT YOU IN DETENTION AND POSSIBLY HANG YOU",
 		"Accio soap, i am washing out %Pl's mouth for your bad language",
-		"WE DONT LIKE YOU YOU ARE POOR AND SAID A BAD WORD %PL WEASLEY -lucious malfoy 1984",
-		"kiss kiss kiss kiss kiss mm i love kissing cho chang but i am going to kill you for bad language %pl.",
 		"%Pl's dirty words are the seventh horcrux! i have destroyed it by reporting them",
 		"fred weasley hits %pl with a bludger and reports them for swearing!",
 		"excuse me %pl i don't like swearing one day i will kill all the wizards who swear - tom riddle 1973",
 		"WIZARDING DECREE #58 - No Swearing. %Pl has been reported to the ministry of magic",
 		"Gran says I shouldn't swear and neither should you %Pl - nelville longbottom 1998",
-		"yous a wizard harry one thing we dont take kindly to at hogwarts is bad language, we suspended %pl for his bad language buuuuurp- hagrid 1992"
+		"yous a wizard harry one thing we dont take kindly to at hogwarts is bad language, we suspended %pl for his bad language buuuuurp- hagrid 1992",
+		"Ugh, %Pl. Now I have to use my time turner to go back to the time before you swore - hermine granger",
+		"My patronus charm is in the form of a report button. I cast Expecto patronum to protect myself against %Pl swearing"
 }
 addon.moduleText["Bro"] = {
 		["Description"] = "Same as chief module",
@@ -63,57 +60,53 @@ addon.moduleText["Chief"] = {
 }
 addon.moduleText["Bible"] = {
 		["Description"] = "Bible shit",
-		"HEY %PL YOU CAN'T CUSS IT'S IN THE 10 COMMANDMENTS RIGHT UNDER THE RIGHT TO BARE ARMS",
-		"%PL DID YOU KNOW ADAM AND EVE WERE THROWN OUT OF EDEN FOR CUSSING?  WATCH OUT",
+		"HEY %Pl YOU CAN'T SWEAR IT'S IN THE 10 COMMANDMENTS RIGHT UNDER THE RIGHT TO BARE ARMS",
+		"%Pl DID YOU KNOW ADAM AND EVE WERE THROWN OUT OF EDEN FOR SWEARING?  WATCH OUT",
 		"when moses parted the red sea the egyptians didn't make it across becuase they said bad words a lot. don't be an egyptian %pl",
 		"judas betrayed jesus because he heard jesus say the word %pl just said. i don't want to be your judas %pl.",
 		"Gensis 1:31: And God saw every thing that he had made, and, behold, it was very good. Except for %Pl's bad words.",
-		"noah was forced to build an ark because in a past life %pl said bad words like the one he just said and it made god cry a lot"
+		"noah was forced to build an ark because in a past life %pl said bad words like the one he just said and it made god cry a lot",
+		"Colossians 3:8: 'But now %Pl must also rid yourself of all such things as these: anger, rage, malice, slander, and filthy language from your lips.'",
+		"Ephesians 4:29: 'Do not let any unwholesome talk come out of your mouth, %Pl, but only what is helpful for building others up according to their needs, that it may benefit those who listen.'",
+		"2 Timothy 2:16: 'Avoid godless chatter, because those who indulge in it will become more and more ungodly.' Take note, %Pl.",
+		"%Pl: Luke 6:45: 'A good man brings good things out of the good stored up in his heart, and an evil man brings evil things out of the evil stored up in his heart. For the mouth speaks what the heart is full of.'"
 }
 addon.moduleText["Pro_Gamer"] = {
 		["Description"] = "Pro Gaming is awesome",
-		"hey %pl maybe if you weren't such a scrub you wouldn't need to curse",
-		"i'm a professional pro gamer and i can get by without cussing, why can't %pl?",
-		"look at %pl, he's so bad at wow he needs to curse all the time to make up for it.",
-		"do you expect to swear your way into icecrown citadel %pl?",
-		"hey %pl maybe if you were more confident in your gaming abilities you wouldn't have to curse so much",
-		"cursing won't save you once you step into the arena, %pl. man up.",
-		"hey %pl do you think ensidia cursed yogg-saron to his world-first death? knock it off and play harder.",
-		"i hope you know that blizzard didn't have swearing in mind when they designed ulduar, %pl, and neither should you if you want to conquer it",
-		"do you think the french player Nymh got the world first level 80 by cussing, %pl?  no, he got it through hard work and good skill.",
-		"%pl chooses to substitute gaming skill with bad language. don't follow his example if you want to succeed.",
-		"i didn't get all the way to the 2008 World of Warcraft Arena Tournament finals just to hear less-skilled players like %pl cuss me out. reported."
+		"i'm a professional pro gamer and i can get by without swearing, why can't %pl?",
+		"look at %pl, he's so bad at wow he needs to swear all the time to make up for it.",
+		"do you expect to swear your way into molten core %pl?",
+		"hey %pl maybe if you were more confident in your gaming abilities you wouldn't have to swear so much",
+		"i hope you know that blizzard didn't have swearing in mind when they designed molten core, %pl, and neither should you if you want to conquer it",
+		"do you think the french player Nymh got the world first level 80 by swearing, %pl?  no, he got it through hard work and good skill.",
+		"%pl chooses to substitute gaming skill with bad language. don't follow his example if you want to succeed."
 }
 addon.moduleText["Gandalf"] = {
 		["Description"] = "Gandalf really hates swear words",
 		"A wizard never swears %pl baggins he says precisely what he means, and you swore, reported!",
 		"Some who live deserve to swear and some who die deserve not to swear, who are you to give it to them %pl?",
-		"%Pl shall not pass..... the test of good in game behavior- gandalf 1994",
-		"LOOK FOR ME ON THE FIFTH DAY BUT YOU HAVE SWORN %PL SO PEACE YALL",
-		"smoke weed everyday but don't swear %pl you idiot- gandalf",
-		"RIDERS OF ROHAN I AM GANDALF. I HAVE HERE THE HEAD OF %PL. HE JUST COULDNT STOP SWEARING",
+		"%Pl shall not pass..... the test of good in game behaviour- gandalf 1994",
+		"RIDERS OF ROHAN I AM GANDALF. I HAVE HERE THE HEAD OF %Pl. HE JUST COULDNT STOP SWEARING",
 		"psst you swore %pl time for me to kill u...................-gandalf the gray of ISENGUARD",
 		"mm yes this is interesting this scroll here whats this!?!? it says here %pl swore... i must consult sarumon- gandalf 2003"
 }
-addon.moduleText["Self_Censor"] = {
+addon.moduleText["Censor"] = {
 		["Description"] = "Good thing you caught yourself swearing!",
 		"holy f@^k %Pl why did you just say that>???",
 		"jesus f@&#*ng christ (sorry lord) %Pl don't say that, this is a rated T game!",
 		"holy s&@t %Pl! blizzard please ban this swearer",
 		"%Pl you b&@$*rd please don't say that",
-		"gawd f#&@*ng  d@@$*mit %Pl stop swearing or me mum will kick me off the computer",
+		"gosh f#&@*ng  d@@$*mit %Pl stop cussing or my mom will kick me off the computer",
 		"f&#k, %Pl, stop swearing"
 }
 addon.moduleText["Achievements"] = {
-    ["Description"] = "grats buddy!  ",
+    ["Description"] = "grats buddy!",
     ["Credit"] = "Pleads",
 		"%Pl has earned the achievement [Reported For Swearing]!",
 		"%Pl has earned the achievement [3 Day Probation]!",
-		"%Pl has earned the achievement [Swearing Like A Sailor]!",
-		"%Pl has earned the achievement [Wash Your Mouth Out]!",
-		"%Pl has earned the achievement [Where Did You Learn That Language?]!",
-		"%Pl has earned the achievement [Did Your Father Teach You That Word?]!",
 		"%Pl has earned the achievement [Reported!]!",
+		"%Pl has earned the achievement [Illegal Use of a Swear Word]!",
+		"%Pl has earned the achievement [Banned for Inappropriate Language]!"
 }
 addon.moduleText["Dad"] = {
     ["Description"] = "[DAD] Dad mod: For dads. (dad) - Concept by Badfinger. Thanks to Mostly Talid and me",
@@ -134,24 +127,26 @@ addon.moduleText["Dad"] = {
 		"What did you just say, %Pl? No sone of mine is going to talk like that around his mother.",
 }
 addon.moduleText["Troll"] = {
-    ["Description"] = "Trolling 101.  By Funholy and friends",
-		"HEY %PL, DID YOU KNOW THAT EVERYTIME YOU SWEAR YOUR GEARSCORE GOES DOWN?",
-		"HALO IS THE GREATEST VIDEO GAME CHARACTER EVER, %PL IS THE WORST SWEARER EVER!",
-		"YOU KNOW WHY THEY CALL IT A %PL 360? CUZ WHEN THEY SWEAR YOU TURN 360 DEGREES AND WALK AWAY",
+		["Description"] = "Trolling 101.",
+    ["Credit"] = "By Funholy and friends",
+		"Hey %Pl, did you know that every time you swear your gearscore goes down?",
+		"Hey %Pl, did you know that every time you swear your average item level goes down?",
+		"Hey %Pl, did you know that every time you swear your raider.io score goes down?",
+		"Halo is the greatest video game character ever, and %Pl is the worst swearer ever!",
+		"You know why they call it a %pl 360? cuz when they swear you turn 360 degrees and walk away",
 		"michael jorden is moonwalkin in his grave because of what %Pl just said",
 		"-6 x 6 x 6 = 0, and swearing + bad at this game + 12 = %Pl"
 }
 addon.moduleText["Normal"] = {
-    ["Description"] = "Please, Don't Troll. ",
+    ["Description"] = "Please, Don't Troll.",
 		["Credit"] = "CuddlyZombie",
-		"Hey, %Pl, watch your language.",
+		"Hey %Pl, watch your language mate.",
 		"Don't say words like that, ".. "%Pl.  There are children playing.",
-		"%Pl, saying words like that is against the rules.  Please stop before I report you.",
-		"Please don't cuss anymore, %Pl, or I'll have to report you.",
-		"Do you kiss your mother with that mouth, %Pl?",
-		"I'm going to report you for using those kinds of swears, %Pl.",
+		"%Pl, saying words like that is against the terms of service.  Please stop before I report you.",
+		"Please don't swear anymore %Pl, or I'll have to report you.",
+		"I'm going to report you for using those kinds of swear words, %Pl.",
 		"I wish there was a way to filter all the mature language %Pl is spewing out, but I'll just have to settle for reporting them instead.",
-		"I've had enough of that kind of language, %Pl!  I'm going to report you.",
+		"I've had enough of that kind of language, %Pl!  I'm going to report you."
 }
 addon.moduleText["Shakespeare"] = {
     ["Description"] = "Shakespeare.",
@@ -184,14 +179,16 @@ addon.moduleText["Dictionary"] = {
 		"Orc - See also: Killer Whale - Webster's Dictonary 1995. %Plis just mad that he can't solo the Orc for the Winterfin quest.",
 		"Dwarf - A star with relatively small mass and low or average luminosity - Webster's Dictionary 1995. I'm going to throw %Pl into a Dwarf if he doesn't chill out",
 		"Elf - Acronym for Extremely Low Frequency - Webster's Dictionary 1995. Don't broadcast swears on an elf or any other fequency, %Pl",
-		"Troll - To sing or utter in a full, rolling voice - Webster's Dictionary 1995. %Pl rolled a Darkspear because of his lovely trolling voice, but he shouldn't use it to cuss.", -- An actual definition of troll.
+		"Troll - To sing or utter in a full, rolling voice - Webster's Dictionary 1995. %Pl rolled a Darkspear because of his lovely trolling voice, but he shouldn't use it to swear.", -- An actual definition of troll.
 }
 addon.moduleText["Terms_of_Use"] = {
-		"As you well know, %Pl, the use of profanity is against the terms of use of World of Warcraft and I have reported you for it.",
-		"%Plneeds to go to http://www.worldofwarcraft.com/legal/termsofuse.html and review the World of Warcraft Terms of Use, which clearly prohibit the sort of language %Pl just used.", -- This was too long, I had to shorten it.
-		"If you think that that sort of language is suitable for the entire playerbase of World of Warcraft, %Pl, you really should reconsider that position. Reported.",
-		"I'm pretty sure that the Game Master staff is going to have a problem with your saying that, %Pl, and that's why I'm telling them you said it.",
-		"%Pl, that kind of language is offensive and not suitable for a game that has been rated T by the ERSB. ",
+		["Description"] = "Letter of the law.",
+    ["Credit"] = "Unknown",
+		"As you well know, %Pl, the use of swear words is against the terms of use of World of Warcraft and I have reported you for it.",
+		"%Pl needs to go to http://www.worldofwarcraft.com/legal/termsofuse.html and review the Terms of Use, which clearly prohibit the sort of language they just used.",
+		"If you think that that sort of language is suitable for the entire playerbase of World of Warcraft %Pl, you really should reconsider that position. Reported.",
+		"I'm pretty sure that the Game Master team is going to have a problem with you saying that %Pl, and that's why I'm reporting you.",
+		"%Pl, that kind of language is offensive and not suitable for a game that has been rated PG.",
 		"Section 9, subsection B, line (i) of the World of Warcraft terms of use, which %Pl" .." agreed to when installing World of Warcraft, prohibits saying the sort of thing that %Pl just said. Reported.",
 		"I am personally offended at the use of language like %Pl's and am reporting him to Blizzard.",
 		"The existence of a profanity filter is no excuse for %Pl to violate the terms of use."
@@ -216,13 +213,10 @@ addon.moduleText["GamerCulture"] = {
 		"It's about ethics in games journalism %Pl, not swearing. #gamersgate",
 		"with a mouth like that %Pl, don't try to tell me there is no such thing as swear-culture #gamersgate",
 		"swear-culture is a real thing, just look at what %Pl just said #gamergate",
-		"i am going to report %Pl for what he just said, don't dox me for it ok #gamergate",
-		"Felica Day has to live in fear for her life because of people swearing like %Pl. #gamersgate",
 		"%Pl hiding behind the use of that language, shows that he is a true defender of the patriarchy. - #gamersgate spokeswoman Anita Sarkeesian 2014",
 		"I know %Pl is trying to be a big boy gamer with that language, but they're just a fake gamer. Don't be fooled. Reported!",
 		"Gamer culture is a pretty big tent, but if %Pl uses that language again they're out. #gamergate",
 		"Gamers are very inclusive folk. Except for swearers like %Pl of course. Reported! #gamergate",
-		"Quit harassing our women-folk with that language %Pl.",
 		"I just want people to know that %Pl does not represent the rest of us swearers. #notallswears",
 		"You'll never be a champion of feminism in games %Pl, if you keep swearing like that.",
 		"You can always tell a fake gamer like %Pl by the swearing they do.",
@@ -299,18 +293,21 @@ addon.moduleText["RP"] = {
   "Lorewalker Chen Stormstout would slap your s*** if he heard you cuss like that %Pl. I'm going to show you my 1,000 Report technique Hi-YA!",
   "Monks are a bad class, they should be peaceful and quiet and not melee spell casters. Monks don't make any sense. Just like the stupid words came out of %Pl's dirty mouth. Both of them should be silent.",
 }
--- neurotech's additions:
--- ----------------------
--- TEMPLATE
--- addon.moduleText["NAME"] = {
---   ["Description"] = "DESCRIPTION",
---   ["Credit"] = "AUTHOR",
--- 	"%Pl, reason.",
--- }
--- TEMPLATE
-
--- addon.moduleText["Aussie"] = {
---   ["Description"] = "Yeah nah mate, she'll be right.",
---   ["Credit"] = "neurotech",
--- 	"%Pl, reason.",
--- }
+addon.moduleText["SJW"] = {
+  ["Description"] = "literally",
+  ["Credit"] = "neurotech",
+	"I'm literally shaking right now reading the toxic swear word that %Pl just said. Reported and CANCELLED %Pl.",
+	"%Pl swearing just now is the literal opposite of being a decent human being. Losing all faith in humanity right now. Reported.",
+	"I literally can't even right now after reading %Pl's disgusting swear words. Reported in the hopes of getting him banned.",
+	"%Pl: oof, that's one yike from me friendo. Reported.",
+	"Oh boy. Wow... just wow. It's almost as if %Pl doesn't realise swearing is part of toxic masculinity culture. Reporting him now, y'all.",
+	"Ummmm, %Pl... you do realise that use of that word is highly problematic? Just shut up and listen to me oh sweet summer child: I am going to report you for it. Cancelled."
+}
+addon.moduleText["Quaran"] = {
+  ["Description"] = "Here we go.",
+  ["Credit"] = "neurotech",
+	"%Pl keep in mind the words of Imam Ali next time you swear: 'For every swear word you give, a scorpion is created in your grave.' Reported.",
+	"The Prophet said: 'Do not swear by your fathers; and whoever wants to swear should swear by Allah.' %Pl has been reported accordingly.",
+	"Reported %Pl. 'Obscene words and deeds are not part of Islam; the best of the people in Islam are the best of them in attitude.'",
+	"Reported %Pl. As The Prophet said, 'The believer does not slander, curse, or speak in an obscene or foul manner.'"
+}
