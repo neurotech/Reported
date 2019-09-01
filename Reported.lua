@@ -75,6 +75,7 @@ local defaults = {
     "d+%s*a+%s*mm*%s*i+%s*t+", -- [21]
     "%Ad+%s*a+%s*r+%s*n+%A", -- [22]
     "%Aranga%A", -- [23]
+    "%As%s*l%s*g%s*u%s*t%A", -- [24]
   }
 }
 local events = {

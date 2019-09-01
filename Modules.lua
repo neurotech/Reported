@@ -135,7 +135,9 @@ addon.moduleText["Troll"] = {
 		"Halo is the greatest video game character ever, and %Pl is the worst swearer ever!",
 		"You know why they call it a %pl 360? cuz when they swear you turn 360 degrees and walk away",
 		"michael jorden is moonwalkin in his grave because of what %Pl just said",
-		"-6 x 6 x 6 = 0, and swearing + bad at this game + 12 = %Pl"
+		"-6 x 6 x 6 = 0, and swearing + bad at this game + 12 = %Pl",
+		"It's crazy to think WoW was the first MMO, and sad to see that %Pl using swear words. *Sigh*. Reported.",
+		"LF more members for our guild [Dragon Lovers]! Message %Pl if you're looking for a guild that is exclusively for fans of Bad Dragon products."
 }
 addon.moduleText["Normal"] = {
     ["Description"] = "Please, Don't Troll.",
