@@ -298,3 +298,18 @@ addon.moduleText["RP"] = {
   "Lorewalker Chen Stormstout would slap your s*** if he heard you cuss like that %Pl. I'm going to show you my 1,000 Report technique Hi-YA!",
   "Monks are a bad class, they should be peaceful and quiet and not melee spell casters. Monks don't make any sense. Just like the stupid words came out of %Pl's dirty mouth. Both of them should be silent.",
 }
+-- neurotech's additions:
+-- ----------------------
+-- TEMPLATE
+-- addon.moduleText["NAME"] = {
+--   ["Description"] = "DESCRIPTION",
+--   ["Credit"] = "AUTHOR",
+-- 	"%Pl, reason.",
+-- }
+-- TEMPLATE
+
+-- addon.moduleText["Aussie"] = {
+--   ["Description"] = "Yeah nah mate, she'll be right.",
+--   ["Credit"] = "neurotech",
+-- 	"%Pl, reason.",
+-- }
