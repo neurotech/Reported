@@ -22,7 +22,8 @@ addon.moduleText['Default'] = {
 		"reported!!",
 		"Reported!!",
 		"Reported!!!",
-		"Player %Pl has been reported for his/her vulgar language."
+		"Reported player: %Pl. Enjoy you're ban."
+		"Player %Pl has been reported for their distasteful and vulgar language."
 }
 addon.moduleText["Harry_Potter"] = {
 		["Description"] = "Harry Potter hates muggles who swear",
