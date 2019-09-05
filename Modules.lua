@@ -303,7 +303,7 @@ addon.moduleText["SJW"] = {
 	"Oh boy. Wow... just wow. It's almost as if %Pl doesn't realise swearing is part of toxic masculinity culture. Reporting him now, y'all.",
 	"Ummmm, %Pl... you do realise that use of that word is highly problematic? Just shut up and listen to me oh sweet summer child: I am going to report you for swearing. Cancelled."
 }
-addon.moduleText["Quaran"] = {
+addon.moduleText["Quran"] = {
   ["Description"] = "Here we go.",
   ["Credit"] = "neurotech",
 	"%Pl keep in mind the words of Imam Ali next time you swear: 'For every swear word you give, a scorpion is created in your grave.' Reported.",
